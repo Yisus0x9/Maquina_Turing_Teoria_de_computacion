@@ -1,0 +1,1 @@
+Esta máquina de Turing hecha durante el curso de Teoría de la computación reconoce el lenguaje L={0^n1^n}, además hace la animación de los movimientos de la máquina de Turing , mostrando la cinta, el cabezal con el estado actual y como va haciendo los movimientos y reemplazando los símbolos en la cinta.
